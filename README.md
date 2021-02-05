@@ -4,7 +4,7 @@
 
 | Проект              | Описание           | Библиотеки                     |
 | :-------------------- | :------------------------------------------------- |:---------------------------|
-| [Перспективный тариф для оператора](https://github.com/borisgurevich/myprojects/tree/main/telecom_SDA_EDA) | Исследовательский и статистический анализ тарифов | pathlib, datetime, pandas, numpy, scipy, matplotlib, seaborn |
-| [Рекомендация тарифов оператора](https://github.com/borisgurevich/myprojects/tree/main/telecom_classification) | Построение модели для задачи классификации, которая поможет выбрать подходящий тариф для рекламы | pandas, numpy, matplotlib, seaborn, sklearn |
-| [Отток клиентов](https://github.com/borisgurevich/myprojects/tree/main/bank_churn_classification) | Прогнозирование оттока клиентов из банка в ближайшее время | pandas, matplotlib, seaborn, sklearn |
-| [Выбор скважины](https://github.com/borisgurevich/myprojects/tree/main/petroleum_regression)|Построение модели для задачи регрессии. Анализ возможной прибыли и рисков техникой Bootstrap.| os, urllib, pandas, numpy, matplotlib, seaborn, sklearn|
+| [Заказы такси](https://github.com/borisgurevich/myprojects/tree/main/telecom_SDA_EDA) | Предсказание количества заказов службы такси (задача регрессии для временных рядов) | pathlib, datetime, pandas, numpy, scipy, matplotlib, seaborn |
+| [Защита клиентских данных](https://github.com/borisgurevich/myprojects/tree/main/telecom_classification) | Разработка алгоритма защиты данных клиентов компании | pandas, numpy, matplotlib, seaborn, sklearn |
+| [Отток клиентов банка](https://github.com/borisgurevich/myprojects/tree/main/bank_churn_classification) | Предсказание оттока банковских клиентов (задача классификации) | pandas, matplotlib, seaborn, sklearn |
+| [Обработка стали](https://github.com/borisgurevich/myprojects/tree/main/petroleum_regression)| Предсказание значения конечной температуры на производстве (задача регрессии) | os, urllib, pandas, numpy, matplotlib, seaborn, sklearn|
